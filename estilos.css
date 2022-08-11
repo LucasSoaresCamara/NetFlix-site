@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(0, 0, 0);    
+}
+
+#logo {
+    width: 300px;
+    margin-top: 20px;
+
+}
+
+
+.margemSuperior{
+    margin-top: 20px;
+}
+
+#fundo-branco{
+    background-color: rgb(255, 255, 255);    
+}
